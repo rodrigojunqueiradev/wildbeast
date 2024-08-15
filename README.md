@@ -16,25 +16,25 @@ Utilizei as ferramentas:\
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Conteúdo Programático
-1. Grid Layout Container
-   grid-template-columns
-   grid-template-rows
-   grid-template-areas
-   grid-template
-   grid-auto-columns
-   grid-auto-rows
-   grid-auto-flow
-   grid
-   justify-content
-   align-items
-   justify-items
+1. Grid Layout Container\
+   grid-template-columns\
+   grid-template-rows\
+   grid-template-areas\
+   grid-template\
+   grid-auto-columns\
+   grid-auto-rows\
+   grid-auto-flow\
+   grid\
+   justify-content\
+   align-items\
+   justify-items\
    align-items
 2. Grid Layout Item
-   grid-column
-   grid-row
-   grid-area
-   justify-self
-   align-sel
+   grid-column\
+   grid-row\
+   grid-area\
+   justify-self\
+   align-self
 3. Desenvolvimento do site Wildbeast
 
 ### Link do Certificado
