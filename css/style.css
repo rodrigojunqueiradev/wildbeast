@@ -21,7 +21,9 @@ a {
 }
 
 img {
+  display: block;
   max-width: 100%;
+  border-radius: 5px;
 }
 
 /* GRID GERAL */
@@ -106,6 +108,11 @@ img {
 /* ANUNCIOS */
 .anuncios {
   grid-area: anuncios;
+  background: #fafbfc;
+  display: grid;
+  align-content: start;
+  padding: 30px;
+  grid-gap: 30px;
 }
 
 /* FOOTER */
