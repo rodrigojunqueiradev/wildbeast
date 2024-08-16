@@ -1,4 +1,3 @@
-
 # Site: Wildbeast
 
 Oi, eu sou o Rodrigo.
@@ -16,6 +15,7 @@ Utilizei as ferramentas:\
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Conteúdo Programático
+
 1. Grid Layout Container\
    grid-template-columns\
    grid-template-rows\
@@ -39,8 +39,10 @@ Utilizei as ferramentas:\
 
 ### Link do Certificado
 
+https://origamid.com/certificate/fde7fba3
 
 ## Conecte-se comigo
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-junqueira/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:eurodrigojunqueira@gmail.com)
